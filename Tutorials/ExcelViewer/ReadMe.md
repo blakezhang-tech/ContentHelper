@@ -72,3 +72,9 @@
 录入完成后，必须保存数据。在菜单中选择【文件】——【另存为】（或快捷键Ctrl+S），从而将数据另存为新的Excel文件。
 
 ![2026-01-18_185436](https://github.com/user-attachments/assets/f3694714-4eaa-4403-aa6d-8a97baf7bd94)
+
+## 设置
+在菜单栏【工具】——【设置】中，您可以根据偏好自行设置一些操作上或视觉上便利化的安排。
+
+![2026-01-19_201115](https://github.com/user-attachments/assets/be3af006-d663-4105-bd63-8422bbb93d16)
+
