@@ -1,4 +1,11 @@
 # Excel Viewer
+## 下载与启动
+在[Release页面](https://github.com/blakezhang-tech/ContentHelper/releases)寻找最近版本的ContentHelper.zip文件下载并解压，点击ContentHelper.exe文件启动该工具。
+
+在启动界面中选择【Excel Viewer】，点击即可进入该功能界面。
+
+![2026-01-19_234057](https://github.com/user-attachments/assets/c780067a-e2ac-4b6e-b2d6-338f841841e1)
+
 ## 主要功能
 - Excel文件（*.xlsx）读取和另存。
 - 根据关键词快速筛选定位指定记录。
