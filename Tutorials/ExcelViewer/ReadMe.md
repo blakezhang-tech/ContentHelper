@@ -83,5 +83,4 @@
 ## 设置
 在菜单栏【工具】——【设置】中，您可以根据偏好自行设置一些操作上或视觉上便利化的安排。
 
-![2026-01-19_201115](https://github.com/user-attachments/assets/be3af006-d663-4105-bd63-8422bbb93d16)
-
+![2026-01-19_235302](https://github.com/user-attachments/assets/03dd9bc4-1c45-437e-993f-9d948d578160)
